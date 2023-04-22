@@ -38,3 +38,6 @@ function init(e) {
     }
 }
 
+window.addEventListener('keydown', init);
+
+
